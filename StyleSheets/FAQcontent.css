@@ -1,0 +1,17 @@
+#Help_sup{
+  width:600px;
+  height:150px;
+  margin:0px;
+  color:white;
+  font-size: 75px;
+  text-align: center;
+  position: absolute;
+  left:400px;
+  top:75px;
+}
+
+#content{
+  width:100%;
+  height:auto;
+
+}
